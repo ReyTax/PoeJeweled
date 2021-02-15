@@ -6,6 +6,7 @@
 
 
 ## POEJEWELED
+
 **MainMenu**
 
 ![MainMenu](https://i.imgur.com/t70giAs.png)
@@ -23,6 +24,9 @@
 
 ![enter image description here](https://i.imgur.com/vEZ3Rez.png)
 ![enter image description here](https://i.imgur.com/lmIEKVU.png)
+
+## DOCUMENTATIE
+
 
 *Cuprins:*
 
@@ -71,7 +75,7 @@ Prima consola de jocuri video cu un succes comercial rasunator a fost Atari 2600
 
 O alta consola de jocuri care a impins si mai mult jocurile video catre publicul larg a fost PlayStation creata si lansata de Sony Computer Entertainment. A fost lasata pentru prima data in 1994 in Japonia, pentru ca mai apoi in 1995 sa fie lansata in America de Nord si Europa. PlayStation a fost prima consola ce a reusit sa vanda peste 100 de milioane de unitati in intreaga lume. Printre jocurile cele mai recunoscute pentru aceasta consola se afla si Final Fantasy VII. Un joc din genul JRPG situat intr-o lume fantastica si cu o poveste matura si laudata de critici. Acest joc a facut popular genul JRPG si a aratat pentru prima data ca jocurile pot fi considerate si arta.
 
-`	`Din 2010 importanta industriei jocurilor video a luat amploare. O data cu aparitia cererii de jocuri video pe piata Asiatica si a jocurilor mobile pe smarthphone-uri industria a inceput sa aiba o crestere imensa de la an la an. In actualitate industria jocurilor video are o valoare la nivel global de aproximativ 160 bilioane de dolari depasind astfel industria filmului si industria muzicala.
+Din 2010 importanta industriei jocurilor video a luat amploare. O data cu aparitia cererii de jocuri video pe piata Asiatica si a jocurilor mobile pe smarthphone-uri industria a inceput sa aiba o crestere imensa de la an la an. In actualitate industria jocurilor video are o valoare la nivel global de aproximativ 160 bilioane de dolari depasind astfel industria filmului si industria muzicala.
 
 In prezent jocurile casual sunt genul de joc predominant in dispozitivele mobile. Acest gen de joc are ca si tinta crearea unui joc cat mai accesibil pentru a putea fi jucat de un public cat mai larg. El preia mecanici din alte genuri si le simplifica. De obicei,  jocurile casual se remarca prin niste reguli foarte simple si sesiuni scurte de joc. Un exemplu de joc de acest gen ce a avut foarte mult succes a fost Candy Crush Saga. Acest joc gratuit a fost lansat pentru prima data in 2012 pe Facebook pentru ca mai apoi sa ajunga pe dispozitivele mobile. In anul 2017 jocul a generat nici mai mult, nici mai putin de 930 de milioane de dolari in castiguri. Candy Crush Saga se regaseste in genul tile-matching game si s-a inspirat din jocul Bejeweled in foarte multe aspecte. Conceptul jocului este unul simplu. Avem o masa cu un numar predefinit de piese, fiecare piesa ocupand un patratel. Piesele sunt de culori diferite si se genereaza aleator. Jucatorul primeste puncte de fiecare daca cand pune laolalta suficient de multe piese de aceeasi culoare pe verticala sau orizontala. In momentul in care piesele au fost conform regulii de joc acestea dispar si lasa loc sa apare alte piese noi generate aleator.
 
