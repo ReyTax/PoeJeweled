@@ -3,7 +3,25 @@
 **The visual elements used in this application are not owned by me and were used just as an visual base for this project**
 
 
+
 ## POEJEWELED
+**MainMenu**
+
+![MainMenu](https://i.imgur.com/t70giAs.png)
+
+**Gameboard**
+
+![Gameboard](https://i.imgur.com/dkAeMTj.png)
+
+**OptionsMenu**
+
+![enter image description here](https://i.imgur.com/L7eKtIx.png)
+![enter image description here](https://i.imgur.com/AE4mK2r.png)
+
+**Scoreboard**
+
+![enter image description here](https://i.imgur.com/vEZ3Rez.png)
+![enter image description here](https://i.imgur.com/lmIEKVU.png)
 
 *Cuprins:*
 
@@ -112,10 +130,10 @@ Aplicatia mobila PoeJeweled este un joc de genul Tiles-Matching inspirat din joc
 3.2. Functionalitate
 
 In figura de mai jos sunt prezentate principalele functionalitati prin intermediul diagramei Use Case. Se prezinta modul de functionare al aplicatiei:
-
+![enter image description here](https://i.imgur.com/KfRVm4b.png)
 
 3.3. Arhitectura interna a aplicatiei 
-
+![enter image description here](https://i.imgur.com/NQSOryL.jpg)
 In figura de mai jos este prezentata diagrama de clasa:
 
 #
