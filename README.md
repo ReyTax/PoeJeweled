@@ -2,6 +2,7 @@
 
 **The visual elements used in this application are not owned by me and were used just as an visual base for this project**
 
+**Server side is disabled**
 
 
 ## POEJEWELED
