@@ -2,7 +2,7 @@
 
 **The visual elements used in this application are not owned by me and were used just as an visual base for this project**
 
-**Server side is disabled**
+**Server functionality is disabled**
 
 
 ## POEJEWELED
@@ -25,7 +25,7 @@
 ![enter image description here](https://i.imgur.com/vEZ3Rez.png)
 ![enter image description here](https://i.imgur.com/lmIEKVU.png)
 
-## DOCUMENTATIE
+## DOCUMENTATIE IN ROMANA
 
 
 *Cuprins:*
